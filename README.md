@@ -1,1 +1,2 @@
 # bootcamp_VBA
+This repository contains the VBA module challenge of the data analytics bootcamp I am taking. Here, we needed to use VBA to calculate quarterly change, percentage change, and total stock volume of each stock in each quarter corresponding to a worksheet. We also needed to use VBA to create a summary table containing these calculations in the same worksheet from which the calculations were performed. 
